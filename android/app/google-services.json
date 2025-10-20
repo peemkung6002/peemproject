@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "362802266328",
+    "firebase_url": "https://newprojectpeem-default-rtdb.firebaseio.com",
+    "project_id": "newprojectpeem",
+    "storage_bucket": "newprojectpeem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362802266328:android:e64eeddf676d0c19f817ad",
+        "android_client_info": {
+          "package_name": "com.example.newproject_peem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkrEACJ5o0FwKNQnvgJuDjt3HCx1TvtLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
