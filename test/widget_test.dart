@@ -16,6 +16,6 @@ void main() {
   await tester.pumpWidget(MyApp());
 
     // Verify that our counter starts at 0.
-    expect(find.text('สินค้าสำหรับยืม'), findsOneWidget);
+    expect(find.text('Home Page'), findsOneWidget);
   });
 }
